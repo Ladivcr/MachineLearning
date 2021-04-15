@@ -1,0 +1,37 @@
+Atributos (ordenados):
+
+I. Sexo:
+1. Hombre
+2. Mujer
+
+II. Estado civil
+1. Casado
+2. Unión libre
+3. Soltero
+
+II. ¿Primera vez que compra un auto?
+1. Si
+2. No
+
+IV. Edad por categorías:
+1. <25
+2. 25-29
+3. 30-34
+4. 35-39
+5. 40-44
+6  >44
+
+V. Categorías relativas a hijos
+0. 0
+1. 1
+2. Más de 1
+
+VI. Categorías relativas al salario (percepción mensual en miles de pesos)
+1. < 10 
+2. 10-15
+3. 15-20
+4. 20-25
+5. 25-30
+6. > 30
+
+
